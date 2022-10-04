@@ -110,6 +110,7 @@ dir(str)  # посмотреть все методы класса
 
 'hello world'.split() # ['hello', 'world']
 'hello world'.split('o') # ['hell', ' w', 'rld']
+'hello world'.split('makers') # ['hello world']
 
 '-'.join(['hello', 'world']) # 'hello-world'
 ' '.join(['hello', 'world']) # 'hello world'
